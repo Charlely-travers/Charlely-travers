@@ -1,6 +1,6 @@
 # What's good! 👋
 
-I'm Charlély Travers, a computer science student 😎
+I'm Charlély Travers, a french computer science student 😎
 
 I love coding and create projects 😁
 
