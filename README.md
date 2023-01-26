@@ -1,4 +1,13 @@
-### Hi there 👋
+# What's good! 👋
+
+I'm Travers, a computer student 😎
+
+I love coding and create projects 😁
+
+When I'm not busy with studies, I enjoy playing football, exploring Japanese culture, and playing some video games ⚽🎮
+
+Check out my GitHub to see what I'm working on and feel free to join in ✌️
+
 
 <!--
 **Charlely-travers/Charlely-travers** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
