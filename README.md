@@ -1,12 +1,12 @@
-# What's good! 👋
+# Welcome to my page 
 
-I'm Charlély Travers, a french computer science student 😎
+I'm Charlély Travers, a french computer science student 
 
-I love coding and create projects 😁
+As a passionate developer, I enjoy creating projects and exploring the field of computer science
 
-When I'm not busy with studies, I enjoy playing football, exploring Japanese culture, and playing some video games ⚽🎮
+In my free time, I also enjoy playing football, exploring Japanese culture, and playing video games
 
-Check out my GitHub to see what I'm working on and feel free to join in ✌️
+If you're interested in viewing my projects, please visit my GitHub page. I am open to collaboration and would greatly appreciate any contributions you'd like to make
 
 
 <!--
